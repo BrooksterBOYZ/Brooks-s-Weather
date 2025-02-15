@@ -17,44 +17,4 @@ body {
     text-align: center;
 }
 
-#city-input {
-    padding: 10px;
-    width: 80%;
-    margin-bottom: 10px;
-}
-
-button {
-    padding: 10px;
-    width: 100%;
-    background-color: #007bff;
-    color: white;
-    border: none;
-    cursor: pointer;
-}
-
-button:hover {
-    background-color: #0056b3;
-}
-
-#weather-info {
-    margin-top: 20px;
-}
-
-#forecast, #hourly-forecast {
-    margin-top: 20px;
-    display: flex;
-    flex-direction: column;
-}
-
-.forecast-item, .hourly-item {
-    padding: 10px;
-    background-color: #f0f0f0;
-    margin-bottom: 10px;
-    border-radius: 5px;
-}
-
-#location-button {
-    margin-top: 20px;
-    padding: 10px;
-    background-color: #28a745;
-}
+#city-inpu
