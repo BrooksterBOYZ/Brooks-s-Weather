@@ -1,7 +1,7 @@
 document.getElementById("search-button").addEventListener("click", getWeather);
 document.getElementById("location-button").addEventListener("click", getWeatherByLocation);
 
-const apiKey = "YOUR_API_KEY"; // Replace with your actual API key
+const apiKey = "8b64c6f5bc6849b7d94956b4abd9d899"; // Replace with your actual API key
 
 async function getWeather() {
     const city = document.getElementById("city-input").value;
